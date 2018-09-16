@@ -1,5 +1,5 @@
 # daily_code_20
-Daily coding problem day 120
+Daily coding problem day 20
 Good morning! Here's your coding interview problem for today.
 
 This problem was asked by Google.
